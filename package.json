@@ -1,0 +1,19 @@
+{
+  "name": "web-js",
+  "version": "1.0.0",
+  "description": "JavaScript implementation of web analytics for manyevents",
+  "main": "web.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manyevents/web-js.git"
+  },
+  "author": "Aleksandr Ptakhin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/manyevents/web-js/issues"
+  },
+  "homepage": "https://github.com/manyevents/web-js#readme"
+}
